@@ -11,7 +11,7 @@
   inputs.src-tkrzw-v0_1_1.owner = "~ehmry";
   inputs.src-tkrzw-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-tkrzw-v0_1_1.repo  = "nim-tkrzw";
-  inputs.src-tkrzw-v0_1_1.type  = "other";
+  inputs.src-tkrzw-v0_1_1.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
