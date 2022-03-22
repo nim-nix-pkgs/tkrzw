@@ -1,5 +1,5 @@
 {
-  description = ''Wrappers over the Tkrzw Database Manager C++ library.'';
+  description = ''Wrapper of the Tkrzw key-value database library'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-tkrzw-v0_1_1.flake = false;
   inputs.src-tkrzw-v0_1_1.owner = "~ehmry";
-  inputs.src-tkrzw-v0_1_1.ref   = "v0.1.1";
+  inputs.src-tkrzw-v0_1_1.ref   = "v0_1_1";
   inputs.src-tkrzw-v0_1_1.repo  = "nim-tkrzw";
   inputs.src-tkrzw-v0_1_1.type  = "sourcehut";
   
