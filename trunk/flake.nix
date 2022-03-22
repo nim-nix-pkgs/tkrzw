@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-tkrzw-trunk.flake = false;
+  inputs.src-tkrzw-trunk.ref   = "refs/heads/trunk";
   inputs.src-tkrzw-trunk.owner = "~ehmry";
-  inputs.src-tkrzw-trunk.ref   = "trunk";
   inputs.src-tkrzw-trunk.repo  = "nim-tkrzw";
   inputs.src-tkrzw-trunk.type  = "sourcehut";
   
