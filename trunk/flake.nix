@@ -11,7 +11,6 @@
   inputs.src-tkrzw-trunk.ref   = "trunk";
   inputs.src-tkrzw-trunk.owner = "~ehmry";
   inputs.src-tkrzw-trunk.repo  = "nim-tkrzw";
-  inputs.src-tkrzw-trunk.dir   = "";
   inputs.src-tkrzw-trunk.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
