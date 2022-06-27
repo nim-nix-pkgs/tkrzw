@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-tkrzw-trunk": "src-tkrzw-trunk"
+        "src-tkrzw-v0_1_2": "src-tkrzw-v0_1_2"
       }
     },
-    "src-tkrzw-trunk": {
+    "src-tkrzw-v0_1_2": {
       "flake": false,
       "locked": {
         "lastModified": 1629214511,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "v0.1.2",
         "repo": "nim-tkrzw",
         "type": "sourcehut"
       }

@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-tkrzw-trunk": "src-tkrzw-trunk"
+        "src-tkrzw-v0_1_0": "src-tkrzw-v0_1_0"
       }
     },
-    "src-tkrzw-trunk": {
+    "src-tkrzw-v0_1_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1629214511,
-        "narHash": "sha256-CPoGgIIcAPDOxjo6gizIgCTcZsBCKyzebUIVGUm6E80=",
+        "lastModified": 1628847201,
+        "narHash": "sha256-abJOwLdVJfG8MCcOxV04m7xClkQS/Ye8zams21Ndt+w=",
         "owner": "~ehmry",
         "repo": "nim-tkrzw",
-        "rev": "11ebd1a95a98b5b504c77c8ef53a3dc7d5ab7ded",
+        "rev": "e8a54d0fe6baf850341b958bcba62b40914bbe60",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "v0.1.0",
         "repo": "nim-tkrzw",
         "type": "sourcehut"
       }
