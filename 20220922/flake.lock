@@ -39,22 +39,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-tkrzw-20220830": "src-tkrzw-20220830"
+        "src-tkrzw-20220922": "src-tkrzw-20220922"
       }
     },
-    "src-tkrzw-20220830": {
+    "src-tkrzw-20220922": {
       "flake": false,
       "locked": {
-        "lastModified": 1661975816,
-        "narHash": "sha256-OK+T/Yv9TEs629kAe45iSEY9dAH57cPRTrurJ0ITsjA=",
+        "lastModified": 1663863816,
+        "narHash": "sha256-66rUuK+wUrqs1QYjteZcaIrfg+LHQNcR+XM+EtVuGsA=",
         "owner": "~ehmry",
         "repo": "nim-tkrzw",
-        "rev": "17c134d24eff183ce3eb5548dc9e6ef96f0c66ac",
+        "rev": "efd87edb7b063182c1a1fa018006a87b515d589b",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "20220830",
+        "ref": "20220922",
         "repo": "nim-tkrzw",
         "type": "sourcehut"
       }
